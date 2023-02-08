@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Milan</h1>
 <h3 align="center">I'm a Back-end Web Developer</h3>
 
-(https://visitcount.itsvg.in/api?id=milandudhat&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=milandudhat&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Node Js**
