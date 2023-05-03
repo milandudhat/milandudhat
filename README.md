@@ -36,7 +36,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smit3343&show_icons=true&theme=dark&locale=en&layout=compact" alt="smit3343" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milandudhat&show_icons=true&theme=dark&title_color=5dfd70&text_color=ffffff&locale=en" alt="milandudhat" /></p>
 
 <br/>
